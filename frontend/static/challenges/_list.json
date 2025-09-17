@@ -713,4 +713,12 @@
     "type": "customTime",
     "parameters": [3600]
   }
+  ,{
+  "name": "redrum",
+  "display": "REDRUM",
+  "autoRole": true,
+  "type": "script",
+  "parameters": ["redrum.txt", null, null],
+  "message": "Here's Johnny!"
+  }
 ]
